@@ -1,2 +1,2 @@
 # timothycoding.github.io
-My GitPages site.
+My GitHub Pages site.
